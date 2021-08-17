@@ -1,0 +1,5 @@
+1.Register  functionuna əlavə base haqqında
+2.Base.exe gui upgrade(Yəni boşluqlar çoxdu)
+3.Balance faylı errorludu
+4.Modify account errorludu
+5.Data errorlarını tez tapmaq üçün ayır hamısını məsələn : "Logs.txt is missing" --kimi
